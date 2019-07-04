@@ -1,0 +1,140 @@
+#topHeader
+{
+    
+    border-bottom: 1px solid #ebebeb;
+
+}
+#topHeader a
+{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+.container-fluid
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+nav ul li a
+{
+     
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+/*START:First Middle section*/
+.container-fluid h5 
+{
+    color: black;
+    font-weight: 600;
+}
+.container-fluid  
+{
+    background-color: black;
+    
+}
+.container-fluid p 
+{
+    color: black;
+    font-weight: 600;
+}
+.top-hero-section
+{
+    background-color: #3498db;
+    color:white;
+}
+.top-hero-section a
+{
+    color:white;
+    font-weight: 600
+}
+/*END:First Middle section*/
+
+.requirement-section
+{
+    background-color: #004d80;
+}
+.requirement-section h4
+{
+    color:white;
+}
+.requirement-section button
+{
+   border-radius: 20px 20px 20px 20px;
+}
+.quality-image
+{
+    width:200px;
+}
+.home-newsletter
+{
+    background-color: #004d80;
+}
+.home-newsletter h4
+{
+    color: white;
+}
+.home-newsletter h3
+{
+    color: white;
+}
+.home-newsletter .form-control
+{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+.home-newsletter button
+{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 0 20px 20px 0;
+    background-color: #2c3e50;
+    color: white;
+}
+
+/*START: FULL-FOOTER*/
+.full-footer
+{
+    background-color:#34495e;
+}
+
+.top-footer p
+{
+    color:white;
+}
+
+.top-footer a
+{
+    color:white;
+    font-weight: 600
+}
+
+.top-footer h3
+{
+    color:white;
+}
+
+.bottom-footer
+{
+    background-color: #19222c;
+}
+.bottom-footer p
+{
+    color: white;
+}
+
+/*FINISH:FULL-FOOTER*/
+
+.form-group .form-control
+{
+   /* width: 350px;
+    border-radius: 20px 20px 20px 20px;*/
+}
+.selector-button button
+{ 
+    border-radius: 20px 20px 20px 20px;
+}
+.breadcrums-section
+{
+    background-color: #e9ecef;
+}
